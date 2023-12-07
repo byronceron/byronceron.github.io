@@ -3,9 +3,13 @@
 
 I am a Computer Engineering Major at CSUF and I plan to graduate in 2027.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
 
-Lab 6 part 1
+My GitHub page is http://github.com/byronceron
+
+### CPSC 120
+
+*Lab 6 part 1
 I liked this lab because it was all about sandwiches which I love but more importantly used strings. I’ve struggled with strings and this lab helped me with mastering them.
 
 Lab 5 Part 2
